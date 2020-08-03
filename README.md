@@ -14,3 +14,4 @@
  
 Resources
 https://www.journaldev.com/18141/spring-boot-redis-cache
+https://www.devglan.com/spring-boot/spring-boot-redis-cache
